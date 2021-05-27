@@ -2,7 +2,7 @@
 
 # master-en-code / guía de estudio
 
-Este repositorio funciona como un [scaffolding](https://en.wikipedia.org/wiki/Scaffold_(programming)) para que puedas organizar archivos y apuntes que trabajes en cada sesión del **Course**, **Carrera** y **Master** de la **escuela de desarrollo web de DEV.F.**
+Este repositorio funciona como un [scaffolding](https://en.wikipedia.org/wiki/Scaffold_(programming)) para que puedas organizar los archivos y apuntes que generes en cada sesión del **Course**, **Carrera** y **Master** de la **escuela de desarrollo web de DEV.F.**
 
 Aquí encontrarás el temario, desglosado por módulo en el orden recomendado. Cada directorio contiene un folder `/retos` con ejercicios para resolver.
 
