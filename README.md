@@ -37,6 +37,4 @@ Si nunca has trabajado con Git previamente, puedes comenzar leyendo el directori
 
 Puedes generar un **[pull request](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)** para integrar tus propios retos, apuntes, diagramas, modelos mentales, etcétera. Lo que sea que consideres ayude a un mejor entendimiento de los temas.
 
-Si nunca has trabajado con Git previamente, puedes comenzar leyendo el directorio `00-git-github`.
-
 ![master en code by dev.f](https://storage.googleapis.com/campus-cvs/lectures/banner-code.jpeg)
