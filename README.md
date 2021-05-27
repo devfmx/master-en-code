@@ -9,13 +9,14 @@ Aquí encontrarás el temario, desglosado por módulo en el orden recomendado. C
 ## Índice
 
 0. Git & Github
-   1. Descarga e instala Git
-   2. Regístrate en Github
-   3. Forkea este repositorio
-   4. Cómo clonar repositorios
-   5. Comandos básicos de terminal
-   6. Comandos básicos de git
-   7. Cómo trabajar con tu repositorio
+   1. Intro a Git & Github
+   2. Descarga e instala Git
+   3. Regístrate en Github
+   4. Forkea este repositorio
+   5. Cómo clonar repositorios
+   6. Comandos básicos de terminal
+   7. Comandos básicos de git
+   8. Cómo trabajar con tu repositorio
 
 1. Intro a la Web
 2. Intro a JavaScript
